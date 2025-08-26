@@ -1,5 +1,4 @@
-<h1>Hi 👋, I'm Manjusha K</h1>
-<h3>A passionate frontend developer from India</h3>
+<h1>About Me: K</h1>
 
 - 🔭 I’m currently working on **skill-ups in Python, SQL, Excel, Tableau, and Machine Learning**
 
