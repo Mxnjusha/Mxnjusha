@@ -1,4 +1,7 @@
-<h1>About Me:</h1>
+<h1>💫 About Me:</h1>
+
+<h3>Hi! Welcome to my Github landing page!
+I'm Manjusha, a passionate Data Analyst fresher with a keen interest in turning raw data into meaningful insights. I enjoy working with data, building dashboards, and applying statistical and machine learning techniques to solve real-world problems.</h3>
 
 - 🔭 I’m currently working on **skill-ups in Python, SQL, Excel, Tableau, and Machine Learning**
 
