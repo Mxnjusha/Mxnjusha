@@ -1,4 +1,4 @@
-<h1>About Me: K</h1>
+<h1>About Me:</h1>
 
 - 🔭 I’m currently working on **skill-ups in Python, SQL, Excel, Tableau, and Machine Learning**
 
