@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manjusha K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Manjusha K</h1>
+<h3>A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **skill-ups in Python, SQL, Excel, Tableau, and Machine Learning**
 
