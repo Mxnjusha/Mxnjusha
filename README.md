@@ -4,7 +4,7 @@
 <p>I'm Manjusha, a passionate Data Analyst fresher with a keen interest in turning raw data into meaningful insights. I enjoy working with data, building dashboards, and applying statistical and machine learning techniques to solve real-world problems.<p>
 
 - 🔭 I’m currently working on skill-ups in Python, SQL, Excel, Tableau, and Machine Learning
-- 💼 Actively seeking opportunities in Data Analytics / Data Science
+- 💼 Actively seeking opportunities in Data Analytics / Data Science / AI
 - 📫 How to reach me manjushamukundan31@gmail.com
 
 <h3 align="left">Connect with me:</h3>
