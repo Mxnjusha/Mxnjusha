@@ -1,9 +1,9 @@
 <h1>💫 About Me:</h1>
 
 <p>Hi! Welcome to my Github landing page!<p>
-<p>I'm Manjusha, a passionate Data Analyst fresher with a keen interest in turning raw data into meaningful insights. I enjoy working with data, building dashboards, and applying statistical and machine learning techniques to solve real-world problems.<p>
+<p>I build AI systems that actually solve real problems — from LLM-powered applications and RAG pipelines to multi-agent workflows. Passionate about turning complex AI concepts into practical, scalable solutions using Python, LangChain, and modern AI tools.
+<p>
 
-- 🔭 I’m currently working on skill-ups in Python, SQL, Excel, Tableau, and Machine Learning
 - 💼 Actively seeking opportunities in Data Analytics / Data Science / AI
 - 📫 How to reach me manjushamukundan31@gmail.com
 
